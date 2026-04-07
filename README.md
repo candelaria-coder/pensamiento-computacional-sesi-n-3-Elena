@@ -3,7 +3,7 @@
 
 Constructivismo Ruso
 
-![obra elegida]https://anasaci.com/blog/creativos/constructivismo-ruso-el-movimiento-que-revoluciono-el-diseno-graficobig1182.jpg
+![obra elegida](https://anasaci.com/blog/creativos/constructivismo-ruso-el-movimiento-que-revoluciono-el-diseno-graficobig1182.jpg)
 
 ### Contexto Historico
 
