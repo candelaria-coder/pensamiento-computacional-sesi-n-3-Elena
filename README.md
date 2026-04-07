@@ -1,14 +1,25 @@
-# pensamiento-computacional-sesi-n-3-Elena
-primer trabajo
-Ejercicios y Sketch de clase
+# pensamiento-computacional-Elena Fonseca
+## Solemne 1
 
-## sketch 1. mi primer p5.js
--qué intenté hacer: 
+Constructivismo Ruso
+https://anasaci.com/blog/creativos/constructivismo-ruso-el-movimiento-que-revoluciono-el-diseno-graficobig1182.jpg
 
--qué aprendí: pichula
+### Contexto Historico
 
--qué no salió:
+Surge en Rusia (~1915–1930)
+Arte funcional, ligado a política y propaganda
+Uso de geometría pura
+Colores industriales (rojo, negro, blanco)
 
-![imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Artwork_by_El_Lissitzky_1919.jpg/330px-Artwork_by_El_Lissitzky_1919.jpg)
+Artistas clave:
+
+El Lissitzky
+Kazimir Malevich
+Alexander Rodchenko
+
+## sketch de proceso+grilla
+
+
+
 
 
