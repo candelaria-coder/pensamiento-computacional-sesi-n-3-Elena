@@ -7,7 +7,7 @@ Constructivismo Ruso
 
 ### Contexto Historico
 
-Surge en Rusia (~1915–1930)
+#### Surge en Rusia (~1915–1930)
 
 Arte funcional, ligado a política y propaganda
 
@@ -15,7 +15,7 @@ Uso de geometría pura
 
 Colores industriales (rojo, negro, blanco)
 
-Artistas clave:
+#### Artistas clave:
 
 El Lissitzky
 
